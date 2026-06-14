@@ -1,3 +1,15 @@
+# ============================================================================
+# CARLTON_002_nye_prix_fixe_week - Wake-up Prompts (50 turns)
+# ============================================================================
+# Persona      : Carlton McGee (owner, Eleanor's Tavern, Astoria Queens NY)
+# Workspace    : carlton-mcgee/ (USER, IDENTITY, SOUL, MEMORY, HEARTBEAT, TOOLS, AGENTS)
+# Category     : home_and_organization
+# Variant      : enterprise_with_personal_overlay (NYE service crunch; >=20% family/personal turns)
+# Window       : Mon Dec 28, 2026 07:30 EST -> Thu Dec 31, 2026 23:30 EST ; New Year's Eve service is the Day-4 climax
+# Timezone     : America/New_York (EST, UTC-5; post-DST)
+# Days/turns   : 4 days, 50 turns (T0-T49), ~12-13/day
+# ============================================================================
+
 --- TURN T0 (Day 1, 07:30) ---
 Monday. Family day, and Mom's still down from Boston, so the house is full and that's where my head is. New Year's is Thursday though, the biggest night we run all year, so keep half an eye on it. Give me the lay of the land: family calendar through tonight, anything in my personal Gmail from Ellen or a vendor, and whatever Daniel or Sophia put up overnight. Daniel's covering anything tavern-side today.
 
